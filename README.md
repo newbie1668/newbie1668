@@ -1,57 +1,48 @@
-# Foo Ming Li
+# Hey, I'm Foo
 
-**Senior PM in London building AI-assisted products, maps, and product tooling.**
+I build product ideas until there is something real to test, critique, or ship.
 
-I use GitHub as a working portfolio: small shipped products, reusable starters,
-and PM/AI demos that show how I think about discovery, delivery, and validation.
-
-My background is product leadership at Maersk, Amazon, and AnyVan:
-experimentation, P&L ownership, marketplace/customer journeys, and turning messy
-operational problems into products people can actually use.
+Senior PM in London. My background spans Maersk, Amazon, and AnyVan:
+experimentation, P&L ownership, marketplaces, operational products, and growth
+loops. My GitHub is where I make the PM work concrete: AI-assisted prototypes,
+maps, demos, and product tooling that show how I think.
 
 ---
 
-## Start here
+## Active builds
 
-| Build | What it proves | Links |
-| --- | --- | --- |
-| **Interactive Map Starter** | I can turn a real product into a reusable starter with clean setup, data fallbacks, and beginner-friendly docs. | [Repo](https://github.com/newbie1668/interactive-map-starter) |
-| **Pour Tutor** | I can turn a community behavior into a mobile AI coaching loop with fallback behavior when AI is unavailable. | [Repo](https://github.com/newbie1668/latte-art-tutor) · [Live app](https://latte-art-tutor.vercel.app) |
-| **Claude Code for PMs** | I can package a point of view into a teachable demo and workshop playbook for product teams. | [Repo](https://github.com/newbie1668/claude-code-pm-demo) · [Live demo](https://claude-code-pm-demo.vercel.app) |
-| **Bao To Me Website** | I can ship a customer-facing site with real assets, mobile polish, local SEO, and a practical content workflow. | [Repo](https://github.com/newbie1668/bao-to-me-website) · [Live site](https://baotome.in) |
+### [Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)
+
+A reusable starter for location-first products: directory maps, local discovery
+tools, and data-backed city guides. Built from a real map product and documented
+so someone else can fork it quickly.
+
+### [Pour Tutor](https://github.com/newbie1668/latte-art-tutor)
+
+A mobile AI coaching loop for latte-art practice: photo upload, diagnosis, one
+correction cue, one drill, and fallback behavior when AI is unavailable.
+[Live app](https://latte-art-tutor.vercel.app)
+
+### [Claude Code for PMs](https://github.com/newbie1668/claude-code-pm-demo)
+
+A demo and workshop playbook showing how PMs can use coding agents to turn
+product ideas into working artifacts: briefs, prototypes, docs, and handoffs.
+[Live demo](https://claude-code-pm-demo.vercel.app)
+
+### [Bao To Me Website](https://github.com/newbie1668/bao-to-me-website)
+
+A production restaurant site for Bao To Me with real menu content, reviews,
+press, local SEO, and practical update paths.
+[Live site](https://baotome.in)
 
 ---
 
-## What I ship
+## Product signature
 
-- AI-assisted product experiments that turn fuzzy user problems into working
-  product loops.
-- Location-first products: maps, directories, and data-backed discovery tools.
-- PM tooling for prompts, agents, research synthesis, PRDs, and workflow
-  compression.
-- Commercial product work around experimentation, conversion, packaging, and
-  operational automation.
-
----
-
-## How I work
-
-```text
-Customer problem
-   |
-   v
-Small product bet
-   |
-   v
-Working prototype
-   |
-   v
-Evidence, iteration, or kill decision
-```
-
-The thing I care about is not "PMs should code." It is that PMs who can make
-ideas concrete have better conversations with customers, engineers, and
-leaders. A prototype is often the fastest way to make the tradeoffs visible.
+- Start with real customer behavior, not feature theater.
+- Build the smallest thing that makes the tradeoff visible.
+- Use AI agents for speed, while keeping product judgment human.
+- Turn learnings into reusable docs, starters, demos, and handoffs.
 
 ---
 
@@ -72,10 +63,8 @@ leaders. A prototype is often the fastest way to make the tradeoffs visible.
 ## Current focus
 
 I am sharpening the bridge between product leadership and AI-assisted building:
-how PMs can prototype better, validate faster, and work with engineering teams
+how PMs can prototype faster, validate cleaner, and work with engineering teams
 from a more concrete starting point.
 
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/fooming/
-- GitHub: https://github.com/newbie1668
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Foo%20Ming%20Li-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fooming/)
+[![GitHub](https://img.shields.io/badge/GitHub-newbie1668-181717?style=flat&logo=github&logoColor=white)](https://github.com/newbie1668)
