@@ -1,11 +1,20 @@
 # Hey, I'm Foo
 
-I build product ideas until there is something real to test, critique, or ship.
+I am a curious, AI-native product manager who likes turning fuzzy ideas into
+working things.
 
 Senior PM in London. My background spans Maersk, Amazon, and AnyVan:
-experimentation, P&L ownership, marketplaces, operational products, and growth
-loops. My GitHub is where I make the PM work concrete: AI-assisted prototypes,
-maps, demos, and product tooling that show how I think.
+experimentation, marketplaces, operational products, growth loops, and the kind
+of messy customer problems that force you to be practical.
+
+My GitHub is a working portfolio: AI-assisted prototypes, maps, demos, and
+product tooling that show how I think. I am especially interested in the space
+between product judgment and AI-native building: using agents to make ideas
+concrete faster, then applying PM taste to decide what is actually worth
+shipping.
+
+If you are looking for a PM who can pair customer sense, commercial judgment,
+and builder momentum, the projects below are the clearest proof of how I work.
 
 ---
 
@@ -41,30 +50,30 @@ press, local SEO, and practical update paths.
 
 - Start with real customer behavior, not feature theater.
 - Build the smallest thing that makes the tradeoff visible.
-- Use AI agents for speed, while keeping product judgment human.
-- Turn learnings into reusable docs, starters, demos, and handoffs.
+- Use AI agents as a building partner, not a novelty.
+- Move comfortably between strategy, prototype, copy, docs, and handoff.
+- Turn curiosity into reusable artifacts other people can actually run.
 
 ---
 
-## Proof from product work
+## Before this
 
-- Delivered **$3.9M EBIT** for LCL digitisation at Maersk, 25% above target.
-- Introduced experimentation across three global portfolios with no prior
-  testing culture.
-- Designed AnyVan tiered packages, contributing about **1.1M GBP annualised
-  revenue uplift**.
-- Built Prime Day engagement programs at Amazon, reaching **3.3M Prime
-  members** and driving **596K coupon redemptions**.
-- Daily user of Claude Code and Cursor for product workflows, prototypes, and
-  agentic handoffs.
+I have led product work across global logistics, ecommerce, marketplaces, and
+operational platforms: digitisation, experimentation, packaging, customer
+journeys, and internal tooling.
+
+That background matters because I do not want to build impressive-looking demos
+in a vacuum. I care about whether a thing is useful, whether it can be explained
+clearly, whether a team could maintain it, and whether it helps someone make a
+better decision.
 
 ---
 
 ## Current focus
 
 I am sharpening the bridge between product leadership and AI-assisted building:
-how PMs can prototype faster, validate cleaner, and work with engineering teams
-from a more concrete starting point.
+how curious PMs can prototype faster, validate cleaner, and work with
+engineering teams from a more concrete starting point.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Foo%20Ming%20Li-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fooming/)
 [![GitHub](https://img.shields.io/badge/GitHub-newbie1668-181717?style=flat&logo=github&logoColor=white)](https://github.com/newbie1668)
