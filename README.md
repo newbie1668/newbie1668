@@ -20,11 +20,18 @@ and builder momentum, the projects below are the clearest proof of how I work.
 
 ## Active builds
 
+### [London Startup Map](https://londonstartupmap.com/)
+
+A live product for exploring London's startup ecosystem: startup offices,
+company profiles, neighbourhoods, sectors, funding stages, and event signals.
+This is the kind of product I like building: useful, opinionated, and grounded
+in a real discovery problem.
+
 ### [Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)
 
 A reusable starter for location-first products: directory maps, local discovery
-tools, and data-backed city guides. Built from a real map product and documented
-so someone else can fork it quickly.
+tools, and data-backed city guides. Built from the patterns behind a real map
+product and documented so someone else can fork it quickly.
 
 ### [Pour Tutor](https://github.com/newbie1668/latte-art-tutor)
 
