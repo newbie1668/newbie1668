@@ -7,10 +7,10 @@ Senior PM in London. My background spans Maersk, Amazon, and AnyVan:
 experimentation, marketplaces, operational products, growth loops, and the kind
 of messy customer problems that force you to be practical.
 
-My GitHub is a working portfolio: AI-assisted prototypes, maps, demos, and
-product tooling that show how I think. I am especially interested in the space
-between product judgment and AI-native building: using agents to make ideas
-concrete faster, then applying PM taste to decide what is actually worth
+My GitHub is a working portfolio: live products, AI-assisted prototypes, maps,
+demos, and product tooling that show how I think. I am especially interested in
+the space between product judgment and AI-native building: using agents to make
+ideas concrete faster, then applying PM taste to decide what is actually worth
 shipping.
 
 If you are looking for a PM who can pair customer sense, commercial judgment,
@@ -18,14 +18,23 @@ and builder momentum, the projects below are the clearest proof of how I work.
 
 ---
 
-## Active builds
+## Flagship build
 
 ### [London Startup Map](https://londonstartupmap.com/)
 
-A live product for exploring London's startup ecosystem: startup offices,
-company profiles, neighbourhoods, sectors, funding stages, and event signals.
-This is the kind of product I like building: useful, opinionated, and grounded
-in a real discovery problem.
+A live product for exploring London's startup ecosystem. It started as a
+directory of about 200 startups and has grown into a map of 600+ companies with
+startup offices, company profiles, neighbourhoods, sectors, funding stages, and
+event signals.
+
+It is the clearest example of the kind of product I like building: useful,
+opinionated, SEO-aware, data-backed, and grounded in a real discovery problem.
+It has real traffic, a growing dataset, and enough surface area to show product
+judgment beyond a polished demo.
+
+---
+
+## Other active builds
 
 ### [Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)
 
