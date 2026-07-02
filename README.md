@@ -18,7 +18,7 @@ operational problems into products people can actually use.
 | **Interactive Map Starter** | I can turn a real product into a reusable starter with clean setup, data fallbacks, and beginner-friendly docs. | [Repo](https://github.com/newbie1668/interactive-map-starter) |
 | **Pour Tutor** | I can turn a community behavior into a mobile AI coaching loop with fallback behavior when AI is unavailable. | [Repo](https://github.com/newbie1668/latte-art-tutor) · [Live app](https://latte-art-tutor.vercel.app) |
 | **Claude Code for PMs** | I can package a point of view into a teachable demo and workshop playbook for product teams. | [Repo](https://github.com/newbie1668/claude-code-pm-demo) · [Live demo](https://claude-code-pm-demo.vercel.app) |
-| **Bao To Me Website** | I can ship a customer-facing site with real assets, mobile polish, local SEO, and a practical content workflow. | [Repo](https://github.com/newbie1668/bao-to-me-website) · [Live site](https://bao-to-me-website.vercel.app) |
+| **Bao To Me Website** | I can ship a customer-facing site with real assets, mobile polish, local SEO, and a practical content workflow. | [Repo](https://github.com/newbie1668/bao-to-me-website) · [Live site](https://baotome.in) |
 
 ---
 
