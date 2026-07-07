@@ -1,76 +1,76 @@
-# Hey, I'm Foo
+# Hi, I'm Foo
 
-I am a curious, AI-native product manager who likes turning fuzzy ideas into
-working things.
+**London** | **AI-native product manager** | **PM builder**
 
-Senior PM in London. My background spans Maersk, Amazon, and AnyVan:
-experimentation, marketplaces, operational products, growth loops, and the kind
-of messy customer problems that force you to be practical.
+I turn ambiguous product ideas into things people can use: live products,
+map-based discovery tools, AI-assisted prototypes, demo playbooks, and product
+handoffs that make decisions easier.
 
-My GitHub is a working portfolio: live products, AI-assisted prototypes, maps,
-demos, and product tooling that show how I think. I am especially interested in
-the space between product judgment and AI-native building: using agents to make
-ideas concrete faster, then applying PM taste to decide what is actually worth
-shipping.
+![Product](https://img.shields.io/badge/Product-111827?style=flat-square)
+![AI agents](https://img.shields.io/badge/AI%20agents-111827?style=flat-square)
+![Maps](https://img.shields.io/badge/Maps-111827?style=flat-square)
+![SEO](https://img.shields.io/badge/SEO-111827?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-111827?style=flat-square)
 
-If you are looking for a PM who can pair customer sense, commercial judgment,
-and builder momentum, the projects below are the clearest proof of how I work.
+## Start here
 
----
+- **[London Startup Map](https://londonstartupmap.com/)** - flagship live
+  product. Grew from an initial directory of about 200 startups to a map of
+  600+ companies, with real traffic and a growing dataset.
+- **[Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)** -
+  public starter for location-first products, extracted from real map-product
+  patterns.
+- **[Claude Code for PMs](https://github.com/newbie1668/claude-code-pm-demo)** -
+  demo and workshop playbook for product managers using AI coding agents.
+- **[Pour Tutor](https://github.com/newbie1668/latte-art-tutor)** -
+  AI-assisted coaching loop for latte-art practice.
+- **[Bao To Me Website](https://github.com/newbie1668/bao-to-me-website)** -
+  production small-business website with local SEO and practical update paths.
 
 ## Flagship build
 
 ### [London Startup Map](https://londonstartupmap.com/)
 
-A live product for exploring London's startup ecosystem. It started as a
-directory of about 200 startups and has grown into a map of 600+ companies with
-startup offices, company profiles, neighbourhoods, sectors, funding stages, and
-event signals.
+A live product for exploring London's startup ecosystem: startup offices,
+company profiles, neighbourhoods, sectors, funding stages, and event signals.
 
 It is the clearest example of the kind of product I like building: useful,
 opinionated, SEO-aware, data-backed, and grounded in a real discovery problem.
-It has real traffic, a growing dataset, and enough surface area to show product
-judgment beyond a polished demo.
+It has enough surface area to show product judgment beyond a polished demo:
+data sourcing, quality gates, search/discovery, content structure, growth loops,
+and a reason for people to come back.
 
----
+## Current builds
 
-## Other active builds
+### Product systems
 
-### [Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)
+- **[Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)** -
+  reusable map/directory starter for city guides, local discovery, and
+  data-backed products.
+- **London Startup Map** - live product and public outcome:
+  [londonstartupmap.com](https://londonstartupmap.com/)
 
-A reusable starter for location-first products: directory maps, local discovery
-tools, and data-backed city guides. Built from the patterns behind a real map
-product and documented so someone else can fork it quickly.
+### AI-native PM workflows
 
-### [Pour Tutor](https://github.com/newbie1668/latte-art-tutor)
+- **[Claude Code for PMs](https://github.com/newbie1668/claude-code-pm-demo)** -
+  a practical demo of how PMs can move from idea to artifact with coding agents.
+- **Agent-assisted product work** - using Claude Code and Cursor for specs,
+  prototypes, repo handoffs, research synthesis, and sharper product decisions.
 
-A mobile AI coaching loop for latte-art practice: photo upload, diagnosis, one
-correction cue, one drill, and fallback behavior when AI is unavailable.
-[Live app](https://latte-art-tutor.vercel.app)
+### Prototypes and shipped sites
 
-### [Claude Code for PMs](https://github.com/newbie1668/claude-code-pm-demo)
+- **[Pour Tutor](https://github.com/newbie1668/latte-art-tutor)** -
+  photo-to-feedback coaching loop with graceful fallback behavior.
+- **[Bao To Me Website](https://github.com/newbie1668/bao-to-me-website)** -
+  customer-facing restaurant site with real content, reviews, press, and SEO.
 
-A demo and workshop playbook showing how PMs can use coding agents to turn
-product ideas into working artifacts: briefs, prototypes, docs, and handoffs.
-[Live demo](https://claude-code-pm-demo.vercel.app)
-
-### [Bao To Me Website](https://github.com/newbie1668/bao-to-me-website)
-
-A production restaurant site for Bao To Me with real menu content, reviews,
-press, local SEO, and practical update paths.
-[Live site](https://baotome.in)
-
----
-
-## Product signature
+## How I work
 
 - Start with real customer behavior, not feature theater.
 - Build the smallest thing that makes the tradeoff visible.
 - Use AI agents as a building partner, not a novelty.
 - Move comfortably between strategy, prototype, copy, docs, and handoff.
 - Turn curiosity into reusable artifacts other people can actually run.
-
----
 
 ## Before this
 
@@ -83,13 +83,12 @@ in a vacuum. I care about whether a thing is useful, whether it can be explained
 clearly, whether a team could maintain it, and whether it helps someone make a
 better decision.
 
----
+## What I'm exploring now
 
-## Current focus
+- Building public products around maps, discovery, and useful datasets.
+- Turning private/product lessons into public starters and examples.
+- Using AI agents to make PM work more concrete, faster, and easier to critique.
+- Helping product teams start from working artifacts instead of abstract slides.
 
-I am sharpening the bridge between product leadership and AI-assisted building:
-how curious PMs can prototype faster, validate cleaner, and work with
-engineering teams from a more concrete starting point.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Foo%20Ming%20Li-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fooming/)
-[![GitHub](https://img.shields.io/badge/GitHub-newbie1668-181717?style=flat&logo=github&logoColor=white)](https://github.com/newbie1668)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Foo%20Ming%20Li-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fooming/)
+[![GitHub](https://img.shields.io/badge/GitHub-newbie1668-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/newbie1668)
