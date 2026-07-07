@@ -1,4 +1,4 @@
-# Hi, I'm Foo
+# Hi, I'm Foo 👋
 
 **London** | **AI-native product manager** | **PM builder**
 
@@ -14,22 +14,22 @@ handoffs that make decisions easier.
 
 ## Start here
 
-- **[London Startup Map](https://londonstartupmap.com/)** - flagship live
+- 🗺️ **[London Startup Map](https://londonstartupmap.com/)** - flagship live
   product. Grew from an initial directory of about 200 startups to a map of
   600+ companies, with real traffic and a growing dataset.
-- **[Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)** -
+- 🧭 **[Interactive Map Starter](https://github.com/newbie1668/interactive-map-starter)** -
   public starter for location-first products, extracted from real map-product
   patterns.
-- **[Claude Code for PMs](https://github.com/newbie1668/claude-code-pm-demo)** -
+- 🤖 **[Claude Code for PMs](https://github.com/newbie1668/claude-code-pm-demo)** -
   demo and workshop playbook for product managers using AI coding agents.
-- **[Pour Tutor](https://github.com/newbie1668/latte-art-tutor)** -
+- ☕ **[Pour Tutor](https://github.com/newbie1668/latte-art-tutor)** -
   AI-assisted coaching loop for latte-art practice.
-- **[Bao To Me Website](https://github.com/newbie1668/bao-to-me-website)** -
+- 🥟 **[Bao To Me Website](https://github.com/newbie1668/bao-to-me-website)** -
   production small-business website with local SEO and practical update paths.
 
 ## Flagship build
 
-### [London Startup Map](https://londonstartupmap.com/)
+### 🗺️ [London Startup Map](https://londonstartupmap.com/)
 
 A live product for exploring London's startup ecosystem: startup offices,
 company profiles, neighbourhoods, sectors, funding stages, and event signals.
