@@ -21,11 +21,11 @@ handoffs that make decisions easier.
   public starter for location-first products, extracted from real map-product
   patterns.
 - 🤖 **[Claude Code for PMs](https://github.com/newbie1668/claude-code-pm-demo)** -
-  demo and workshop playbook for product managers using AI coding agents.
+  A Demo and workshop playbook I did for product managers on how to use AI coding agents.
 - ☕ **[Pour Tutor](https://github.com/newbie1668/latte-art-tutor)** -
-  AI-assisted coaching loop for latte-art practice.
+  AI-assisted coaching loop for latte-art practice. Built for a one hour Codex hackathon
 - 🥟 **[Bao To Me Website](https://github.com/newbie1668/bao-to-me-website)** -
-  production small-business website with local SEO and practical update paths.
+  First ever project with Claude code. A live small-business website with local SEO and practical update paths.
 
 ## Flagship build
 
