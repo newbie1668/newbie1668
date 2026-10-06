@@ -4,7 +4,7 @@
 
 I turn ambiguous customer problems into working products. My background spans global logistics, ecommerce, marketplaces, and operational platforms; today I use AI coding tools to move from product strategy to prototypes, shipped experiences, and reusable tools.
 
-**Start with [London Startup Map](https://londonstartupmap.com/)** for a live product, **[Jev](https://github.com/newbie1668/jev-hs-assistant)** for an AI review workflow, or **[M/ETHANE](https://github.com/newbie1668/frontline-london-hackathon)** for a voice-first hackathon prototype.
+**Start with [London Startup Map](https://londonstartupmap.com/)** for a live product, **[HS code review assistant](https://github.com/newbie1668/jev-hs-assistant)** for an AI review workflow, or **[M/ETHANE](https://github.com/newbie1668/frontline-london-hackathon)** for a voice-first hackathon prototype.
 
 [LinkedIn](https://www.linkedin.com/in/fooming/) · [London Startup Map](https://londonstartupmap.com/) · [Public projects](https://github.com/newbie1668?tab=repositories)
 
@@ -20,7 +20,7 @@ The reusable map patterns are available in **[Interactive Map Starter](https://g
 
 ## 🧪 Selected projects
 
-### Jev — HS code review assistant
+### HS code review assistant — powered by Jev
 **AI workflow prototype · Next.js / TypeScript / TypeSafe**
 
 Helps a reviewer turn shipping documents into draft HS6 classifications. Suggestions follow a pinned HS taxonomy; the interface shows decision traces, flags exceptions, and supports human confirmation and draft export. Customs filing stays blocked.
@@ -28,6 +28,15 @@ Helps a reviewer turn shipping documents into draft HS6 classifications. Suggest
 **Product focus:** make uncertain AI output inspectable and keep consequential decisions with the reviewer.
 
 [Source & local demo instructions](https://github.com/newbie1668/jev-hs-assistant)
+
+### Operation Shade — creator inbox triage
+**Team Jano hackathon project · Jev / TypeSafe**
+
+A team project I helped build to reduce repetitive creator DMs while preserving the creator's judgment. Jev classifies messages into four lanes; replies are assembled from the creator's existing playbook, with uncertain or personal messages escalated for review. Approved wording can be reused across matching replies.
+
+**Product focus:** reduce repetitive work while keeping the creator in control of her voice. The prototype uses a mostly synthetic inbox and has no automatic sending or live Instagram/TikTok integration.
+
+[Watch the hackathon demo](https://www.loom.com/share/2ac289a9748d4fb6aeddaf56527aca46) · [Team repository](https://github.com/KaushikKC/OperationShade) · [Try the console](https://operation-shade-jano.vercel.app/)
 
 ### M/ETHANE — voice-first incident reporting
 **Unofficial hackathon prototype · Python / React / local speech recognition / Ollama**
