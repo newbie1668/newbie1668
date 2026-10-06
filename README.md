@@ -36,7 +36,7 @@ Turns an officer's spoken account into the seven JESIP M/ETHANE fields. The inte
 
 **Product focus:** reduce form-filling effort while preserving the source and certainty of each field. Demo only; no live emergency-system integration.
 
-[Source, screenshots & local demo instructions](https://github.com/newbie1668/frontline-london-hackathon)
+[90-second walkthrough](https://github.com/newbie1668/frontline-london-hackathon#90-second-walkthrough) · [Source & local demo instructions](https://github.com/newbie1668/frontline-london-hackathon)
 
 ### My Wardrobe — Wada Look Builder
 **Open-source fork · JavaScript / AI image generation**
@@ -46,15 +46,6 @@ My fork adds colour-guided outfit building to an existing wardrobe app: start wi
 **Product focus:** turn a clothing catalogue into a useful daily decision tool.
 
 [Source & screenshots](https://github.com/newbie1668/mywardrobe)
-
-### RUNWAY — startup strategy game
-**Experimental preview · Next.js / React / TypeScript**
-
-A standalone London startup game about building a company, working the events scene, and raising funding before the money runs out. Developed separately from London Startup Map.
-
-**Product focus:** make startup tradeoffs tangible through play.
-
-[Source & setup](https://github.com/newbie1668/runway-startup-game) · [Try the preview](https://runway-startup-game.vercel.app/game)
 
 ## 🛠️ More things I've built
 
